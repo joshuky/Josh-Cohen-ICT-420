@@ -16,21 +16,29 @@ p {
   font-family: "Times New Roman", serif;
 }
 
+main{
+ background-color: green;
+  font-family: Times New Roman, serif;
+  text-align: center;
+}
+
+body {
+  background-color: white;
+  text-align: left;
+}
+
 ul {
   list-style-type: none;
   padding-right: 3em;
   margin: 0;
 }
 
-
+section {
+  background-color: white;
+  }
 
 footer {
   background-color: black ;
   font-family: "Times New Roman", serif;
-  text-align: left;
-}
-
-body {
-  background-color: white;
   text-align: left;
 }
