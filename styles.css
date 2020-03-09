@@ -1,1 +1,35 @@
+header {
+  background-color: green;
+  font-family: Times New Roman, sans-serif;
+  text-align: center;
+}
 
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-family: Times New Roman, serif;
+}
+
+p {
+  font-family: Times New Roman, serif;
+}
+
+ul {
+  list-style-type: none;
+  padding-right: 3em;
+  margin: 0;
+}
+
+
+
+footer {
+  background-color: black ;
+  font-family: Times New Roman, serif;
+  text-align: left;
+}
+
+body {
+  background-color: white;
+  text-align: left;
