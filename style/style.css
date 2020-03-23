@@ -8,7 +8,7 @@ h1 {
   font-size: 2rem;
 }
 
-#CohenCooks,Inc.{
+#Cohen_Cooks,Inc.{
   border: 1px white;
   width: 90px;
   height: 70px;
@@ -28,6 +28,26 @@ main{
  background-color: white;
   font-family: Times New Roman, serif;
   text-align: center;
+}
+
+.Home{
+  border: 1px light blue;
+}
+
+.About_us{
+   border: 1px light blue;
+}
+
+.Contact_us{
+   border: 1px light blue;
+}
+
+.Types_of_Meat{
+  border: 1px light blue;
+}
+
+.Pictures{
+border: 1px light blue;
 }
 
 body {
