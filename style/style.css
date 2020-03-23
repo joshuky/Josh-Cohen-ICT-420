@@ -9,7 +9,7 @@ h1 {
 }
 
 #Cohen_Cooks,_Inc. {
-  border: 1px light blue;
+  border: 1px blue;
   width: 90px;
   height: 70px;
   padding: 10px;
@@ -31,23 +31,23 @@ main{
 }
 
 .Home{
-  border: 1px light blue;
+  border: 1px blue;
 }
 
 .About_us{
-   border: 1px light blue;
+   border: 1px blue;
 }
 
 .Contact_us{
-   border: 1px light blue;
+   border: 1px blue;
 }
 
 .Types_of_Meat{
-  border: 1px light blue;
+  border: 1px blue;
 }
 
 .Pictures{
-border: 1px light blue;
+border: 1px blue;
 }
 
 body {
@@ -76,7 +76,7 @@ nav > ul > li {
   font-size: 1.2em;
   padding: 20px;
   padding-left: 100px;
-  border: 1px light blue;
+  border: 1px blue;
  
 }
 
