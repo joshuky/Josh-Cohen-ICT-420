@@ -35,7 +35,7 @@ body {
   text-align: left;
 }
 
-nav > ul {
+nav > ul > li {
   display: inline-flex;
   font-size: 1.2em;
   font-family: cursive;
