@@ -8,6 +8,10 @@ h1 {
   font-size: 2rem;
 }
 
+nav > ul {
+  list-style-type: none;
+}
+
 #Cohen_Cooks,_Inc. {
   border: 1px blue;
   width: 90px;
