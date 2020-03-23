@@ -35,6 +35,22 @@ body {
   text-align: left;
 }
 
+#meat{
+  font-weight: bold;
+}
+
+#chicken{
+  font-weight: bold;
+}
+
+#burgers{
+  font-weight: bold;
+}
+
+#fish{
+  font-weight: bold;
+}
+
 nav > ul > li {
   display: inline-flex;
   font-size: 1.2em;
