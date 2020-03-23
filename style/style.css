@@ -25,7 +25,7 @@ p {
 }
 
 main{
- background-color: green;
+ background-color: gray;
   font-family: Times New Roman, serif;
   text-align: left;
 }
@@ -41,7 +41,7 @@ nav > ul > li {
   font-family: cursive;
   padding: 20px;
   padding-left: 100px;
-  color: white;
+  color: green;
 }
 
 ol > li {
