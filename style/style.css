@@ -92,8 +92,8 @@ section {
 }
 
 a[href] {
-  background-color: white;
-  color: black;
+  background-color: blue;
+  color: white;
   font-weight: bold;
 }
 
