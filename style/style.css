@@ -101,7 +101,7 @@ a:visited {
   color:black;
 }
 
-td: hover {
+td:hover {
   background-color: black;
   color: white;
 }
