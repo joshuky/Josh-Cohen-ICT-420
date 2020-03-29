@@ -101,6 +101,11 @@ a:visited {
   color:purple;
 }
 
+td: hover {
+  background-color: black;
+  color: white;
+}
+
 footer {
   background-color: white;
   font-family: "Times New Roman", serif;
