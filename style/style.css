@@ -97,6 +97,10 @@ a[href] {
   font-weight: bold;
 }
 
+a:visited {
+  color:purple;
+}
+
 footer {
   background-color: white;
   font-family: "Times New Roman", serif;
