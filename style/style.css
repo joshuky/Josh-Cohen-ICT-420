@@ -12,12 +12,6 @@ nav > ul {
   list-style-type: none;
 }
 
-a[href] {
-  background-color: white;
-  color: black;
-  font-weight: bold;
-}
-
 h2 {
   font-family: "Times New Roman", serif;
 }
@@ -95,7 +89,13 @@ ul {
 
 section {
   background-color: white;
-  }
+}
+
+a[href] {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+}
 
 footer {
   background-color: white;
