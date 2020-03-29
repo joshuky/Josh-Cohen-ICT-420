@@ -12,6 +12,10 @@ nav > ul {
   list-style-type: none;
 }
 
+a[href] {
+  font-weight: bold;
+}
+
 h2 {
   font-family: "Times New Roman", serif;
 }
