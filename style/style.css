@@ -13,6 +13,8 @@ nav > ul {
 }
 
 a[href] {
+  background-color: white;
+  color: black;
   font-weight: bold;
 }
 
