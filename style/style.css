@@ -68,6 +68,7 @@ body {
 }
 
 nav > ul > li {
+  list-style-type: none;  
   display: inline-flex;
   font-size: 1.2em;
   padding: 20px;
