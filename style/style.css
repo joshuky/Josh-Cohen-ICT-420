@@ -16,6 +16,10 @@ body p {
   background-color: yellow;
 }
 
+dd p {
+  background-color: yellow;
+}
+
 h1 {
   font-size: 2rem;
 }
