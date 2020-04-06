@@ -8,6 +8,10 @@ header + h1 {
   background-color: yellow;
 }
 
+main p {
+  background-color: yellow;
+}
+
 body p {
   background-color: yellow;
 }
