@@ -4,6 +4,10 @@ header {
   text-align: center;
 }
 
+header + h1 {
+  background-color: yellow;
+}
+
 h1 {
   font-size: 2rem;
 }
