@@ -79,6 +79,7 @@ border: 1px blue;
 body {
   background-color: green;
   text-align: left;
+  border: 1px solid black;  
 }
 
 #meat{
