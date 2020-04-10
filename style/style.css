@@ -12,16 +12,6 @@ main p {
   background-color: yellow;
 }
 
-#main {
-  display: grid;
-  grid gap: 20px;
-  gap: 20px
-  padding: 0 2rem 0 2rem;
-  font-size: 1rem;
-
-#main p {
-  font-family: "Times New Roman", sans-serif;
-
 body p {
   background-color: yellow;
   text-align: center;
