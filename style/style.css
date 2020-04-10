@@ -33,6 +33,10 @@ caption {
   text-align: center;
 }
 
+tr {
+   text-align: center;
+}
+
 nav > ul {
   list-style-type: none;
 }
