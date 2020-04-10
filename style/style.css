@@ -168,3 +168,12 @@ footer {
   font-family: "Times New Roman", serif;
   text-align: left;
 }
+
+display: grid;
+    grid-gap: 10px 20px;
+    grid-template-rows: 100px 1fr auto;
+    grid-template-columns: 1fr 200px;
+    grid-template-areas: "header  header"
+                         "main body "
+                         "footer";
+
