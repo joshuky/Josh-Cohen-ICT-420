@@ -26,8 +26,11 @@ h1 {
 
 table {
   text-align: center;
-  font-weight: bold;
 }
+
+caption {
+  text-align: center;
+  font-weight: bold;
 
 nav > ul {
   list-style-type: none;
