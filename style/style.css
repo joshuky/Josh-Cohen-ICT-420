@@ -5,7 +5,7 @@ header {
 }
 
 ::selection {
-  background-color: yellow;
+  background-color: white;
   color: red;
 }
 
