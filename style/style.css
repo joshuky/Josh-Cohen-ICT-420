@@ -112,19 +112,23 @@ body {
   border: 1px solid black;  
 }
 
-.meat{
+.Meat{
   font-weight: bold;
 }
 
-.chicken{
+.Chicken{
   font-weight: bold;
 }
 
-.burgers {
+.Burgers {
   font-weight: bold;
 }
 
-.fish{
+.Fish {
+  font-weight: bold;
+}
+
+.Pork {
   font-weight: bold;
 }
 
