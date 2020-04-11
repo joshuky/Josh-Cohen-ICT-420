@@ -36,7 +36,7 @@ table.center {
   margin-right: 15%;
 }
 
-table,thead,tbody,tfoot,tr, td,th{
+table,thead,tbody,tfoot,tr, td,th {
   text-align: center;
   margin: auto;
   border:1px solid black;
