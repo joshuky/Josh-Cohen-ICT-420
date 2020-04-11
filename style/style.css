@@ -30,18 +30,6 @@ h1 {
   font-size: 2rem;
 }
 
-table {
-  text-align: center;
-}
-
-caption {
-  text-align: center;
-}
-
-tr {
-   text-align: center;
-}
-
 table.center {
   width: 70%;
   margin-left: 15%;
