@@ -4,6 +4,11 @@ header {
   text-align: center;
 }
 
+p::selection {
+  background-color: white;
+  color: red;
+}
+
 header + h1 {
   background-color: yellow;
 }
