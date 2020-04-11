@@ -9,6 +9,12 @@ main::selection {
   color: red;
 }
 
+body::selection {
+  background-color: white;
+  color: red;
+}
+
+
 header + h1 {
   background-color: yellow;
 }
