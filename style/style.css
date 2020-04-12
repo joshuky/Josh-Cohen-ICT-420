@@ -174,8 +174,8 @@ td:hover {
 
 /* Make selected text red on a white background */
 p::selection {
-  background-color: white;
-  color: red;
+  background-color: red;
+  color: white;
 }
 
 table,thead,tbody,tfoot,tr, td,th {
