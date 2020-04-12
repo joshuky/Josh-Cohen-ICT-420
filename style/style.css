@@ -186,13 +186,13 @@ table,thead,tbody,tfoot,tr, td,th {
   width: 50%;
 }
 
-/* Make selected text red on a white background */
+/* Make selected text light blue on a white background */
 ::-moz-selection { background: light blue; }
 ::selection { background: light blue; }
 
 a[href]::selection {
   background-color: red;
-  color: red;
+  color: yellow;
 }
 
 footer {
