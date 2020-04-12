@@ -172,7 +172,6 @@ td:hover {
   color: white;
 }
 
-/* Make selected text red on a white background */
 p::selection {
   background-color: white;
   color: red;
@@ -186,7 +185,6 @@ table,thead,tbody,tfoot,tr, td,th {
   width: 50%;
 }
 
-/* Make selected text light blue on a white background */
 ::-moz-selection { background: #87CEFA; }
 ::selection { background-color: #87CEFA; }
 
