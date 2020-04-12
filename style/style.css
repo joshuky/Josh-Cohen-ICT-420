@@ -187,8 +187,8 @@ table,thead,tbody,tfoot,tr, td,th {
 }
 
 /* Make selected text light blue on a white background */
-::-moz-selection { background: white; }
-::selection { background-color: #87CEFA; }
+::-moz-selection { background: #87CEFA; }
+::selection { background-color: white; }
 
 a[href]::selection {
   background-color: red;
