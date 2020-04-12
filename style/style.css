@@ -191,6 +191,7 @@ table,thead,tbody,tfoot,tr, td,th {
 header::selection {
   background-color: #87CEFA;
   color: white;
+}
   
 a[href]::selection {
   background-color: red;
