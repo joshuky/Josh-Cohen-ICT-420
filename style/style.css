@@ -186,6 +186,7 @@ table,thead,tbody,tfoot,tr, td,th {
   width: 50%;
 }
 
+/* Make selected text red on a white background */
 ::-moz-selection { background: white; }
 ::selection { background: red; }
 
