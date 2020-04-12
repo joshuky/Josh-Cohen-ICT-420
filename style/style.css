@@ -184,6 +184,8 @@ table,thead,tbody,tfoot,tr, td,th {
   padding: 1rem;
   width: 50%;
 }
+::-moz-selection { background: red; }
+::selection { background: white; }
 
 footer {
   background-color: white;
