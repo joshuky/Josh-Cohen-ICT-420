@@ -188,11 +188,6 @@ table,thead,tbody,tfoot,tr, td,th {
 ::-moz-selection { background: #87CEFA; }
 ::selection { background-color: #87CEFA; }
 
-header::selection {
-  background-color: #87CEFA;
-  color: white;
-}
-  
 a[href]::selection {
   background-color: red;
   color: yellow;
