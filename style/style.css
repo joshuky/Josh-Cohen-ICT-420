@@ -188,7 +188,7 @@ table,thead,tbody,tfoot,tr, td,th {
 
 /* Make selected text red on a white background */
 ::-moz-selection { background: red; }
-::selection { background: white; }
+::selection { background: red; }
 
 footer {
   background-color: white;
