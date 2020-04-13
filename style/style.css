@@ -145,12 +145,20 @@ main{
   font-size: 1rem;
   }
 
+#forms {
+  display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+}
+
 #img src {
  display: grid;
   gap: 20px;
   padding: 0 2rem 0 2rem;
   font-size: 1rem;
   }
+  
 #figure {
  display: grid;
   gap: 20px;
