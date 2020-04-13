@@ -82,7 +82,7 @@ main{
   font-size: 1rem;
   }
 
-#nav {
+#nav ul{
  display: grid;
   gap: 20px;
   padding: 0 2rem 0 2rem;
