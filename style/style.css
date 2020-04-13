@@ -124,27 +124,6 @@ main{
   font-size: 1rem;
   }
 
-#section class="Home Page" {
- display: grid;
-  gap: 20px;
-  padding: 0 2rem 0 2rem;
-  font-size: 1rem;
-  }
-
-#section class="About Us" {
- display: grid;
-  gap: 20px;
-  padding: 0 2rem 0 2rem;
-  font-size: 1rem;
-  }
-
-#section class="Types of Meat" {
- display: grid;
-  gap: 20px;
-  padding: 0 2rem 0 2rem;
-  font-size: 1rem;
-  }
-
 #img {
  display: grid;
   gap: 20px;
