@@ -145,7 +145,7 @@ main{
   font-size: 1rem;
   }
 
-#forms {
+#form {
   display: grid;
   gap: 20px;
   padding: 0 2rem 0 2rem;
