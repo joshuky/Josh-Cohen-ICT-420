@@ -131,17 +131,6 @@ main{
   font-size: 1rem;
   }
 
-@media (max-width: 600px) {
-        grid-gap: 0;
-        grid-template-rows: auto 1fr auto auto;
-        grid-template-columns: 1fr;
-        grid-template-areas: "header "
-                             "nav"
-                             "content"
-                             "aside  "
-                             "footer ";
-    }
-
 #main p {
   font-family: "Times New Roman", sans-serif;
   }
