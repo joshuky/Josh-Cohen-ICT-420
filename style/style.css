@@ -124,7 +124,7 @@ main{
   font-size: 1rem;
   }
 
-#img {
+#img src {
  display: grid;
   gap: 20px;
   padding: 0 2rem 0 2rem;
