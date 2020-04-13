@@ -82,7 +82,21 @@ main{
   font-size: 1rem;
   }
 
-#nav ul{
+#body {
+  display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+}
+
+#a[href] {
+   display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+}
+
+#nav ul {
  display: grid;
   gap: 20px;
   padding: 0 2rem 0 2rem;
@@ -130,6 +144,13 @@ main{
   padding: 0 2rem 0 2rem;
   font-size: 1rem;
   }
+
+#footer {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+}
 
 #main p {
   font-family: "Times New Roman", sans-serif;
