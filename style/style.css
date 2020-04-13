@@ -82,6 +82,34 @@ main{
   font-size: 1rem;
   }
 
+#nav {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
+#h1 {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
+#dl {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
+#table {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
 @media (max-width: 600px) {
         grid-gap: 0;
         grid-template-rows: auto 1fr auto auto;
