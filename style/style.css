@@ -124,6 +124,20 @@ main{
   font-size: 1rem;
   }
 
+#h3 {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
+#h4 {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
 #p {
  display: grid;
   gap: 20px;
