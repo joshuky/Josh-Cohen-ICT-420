@@ -96,6 +96,13 @@ main{
   font-size: 1rem;
   }
 
+#h2 {
+ display: grid;
+  gap: 20px;
+  padding: 0 2rem 0 2rem;
+  font-size: 1rem;
+  }
+
 #dl {
  display: grid;
   gap: 20px;
@@ -110,7 +117,7 @@ main{
   font-size: 1rem;
   }
 
-#section {
+#section class {
  display: grid;
   gap: 20px;
   padding: 0 2rem 0 2rem;
