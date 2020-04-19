@@ -3,7 +3,7 @@
 "@type": "FoodService",
 "name": "Cohen Cooks, inc.",
 "founder": "Josh Cohen",
-"foods": [
+"offers": [
   "steak",
   "chicken",
   "burgers",
