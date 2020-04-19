@@ -2,7 +2,7 @@
 "@context": "https://schema.org/",
 "@type": "FoodService",
 "name": "Cohen Cooks, inc.",
-"creator": "Josh Cohen",
+"founder": "Josh Cohen",
 "foods": [
   "steak",
   "chicken",
