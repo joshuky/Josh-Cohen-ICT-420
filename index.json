@@ -3,8 +3,7 @@
 "@type": "FoodService",
 "name": "Cohen Cooks, inc.",
 "creator": "Josh Cohen",
-"foods": 
-[
+"foods": [
   "steak",
   "chicken",
   "burgers"
